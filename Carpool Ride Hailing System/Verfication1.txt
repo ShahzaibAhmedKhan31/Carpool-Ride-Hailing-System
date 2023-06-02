@@ -1,0 +1,12 @@
+Car Type: Premium
+Car Name: BMW M3
+Car Color: Black
+Car Number Plate: AAA-111
+Driver Name: Arsalan Shah
+Driver PhoneNumber: 03131234567
+Expected Fair:200
+Your Pickup Location: Bahadurabad
+Your DropOff Location: Clifton
+Congrats! You have 
+got 9 % Discount
+on your Ride...

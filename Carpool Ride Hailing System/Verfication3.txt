@@ -1,0 +1,15 @@
+Car Type: Premium
+Car Name: S-Class
+Car Color: White
+Car Number Plate: BBB-222
+Driver Name: Shahrukh sattar
+Driver PhoneNumber: 03451234567
+Expected Fair:180
+Your Pickup Location: Gulshan
+Your DropOff Location: Bahadurabad
+Congrats! You have 
+got 10 % Discount
+on your Ride...
+Congrats! You have 
+got 6 % Discount
+on your Ride...

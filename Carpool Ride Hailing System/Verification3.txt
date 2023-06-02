@@ -1,0 +1,9 @@
+Car Type: Deluxe
+Car Name: Civic 1.5 Turbo
+Car Color: Grey
+Car Number Plate: CCC-333
+Driver Name: Farooq Furqan
+Driver PhoneNumber: 03331234567
+Expected Fair:130
+Your Pickup Location: Airport
+Your DropOff Location: Gulshan

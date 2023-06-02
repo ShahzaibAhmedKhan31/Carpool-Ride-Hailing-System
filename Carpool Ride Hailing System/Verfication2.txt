@@ -1,0 +1,12 @@
+Car Type: Premium
+Car Name: S-Class
+Car Color: White
+Car Number Plate: BBB-222
+Driver Name: Shahrukh sattar
+Driver PhoneNumber: 03451234567
+Expected Fair:420
+Your Pickup Location: Clifton
+Your DropOff Location: Airport
+Congrats! You have 
+got 10 % Discount
+on your Ride...
